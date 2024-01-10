@@ -4,7 +4,7 @@ Models of sequence divergence based on Russian roulette and RNA folding to simul
 
 Data and code associated with:
 
-Kalirad A, Burch CL, & Azevedo RBR. _Genetic drift promotes and recombination hinders speciation on a holey fitness landscape_. *bioRxiv* doi: https://doi.org/10.1101/2022.09.20.508707 .
+Kalirad A, Burch CL, & Azevedo RBR. _Genetic drift promotes and recombination hinders speciation on holey fitness landscapes_. *bioRxiv* doi: https://doi.org/10.1101/2022.09.20.508707 .
 
 ## Contents:
 
