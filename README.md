@@ -12,9 +12,9 @@ Kalirad A, Burch CL, & Azevedo RBR. _Genetic drift promotes and recombination hi
 
 + RR_model.py: The Russian roulette model written in Python 3.9.
 
-+ RNA_qfit.py: The RNA-folding model with intrinsic fitness diffwritten in Python 3.9.
++ RNA_qfit.py: The RNA-folding model with intrinsic fitness differences written in Python 3.9.
 
-+ RNA_holey.py: The RNA-folding model with holey fitness landscape written in Python 3.9.
++ RNA_holey.py: The RNA-folding model without intrinsic fitness differences written in Python 3.9.
 
 + main_figures_2.ipynb : ipython notebook to generate figure 2 (under construction).
 
@@ -26,12 +26,12 @@ Kalirad A, Burch CL, & Azevedo RBR. _Genetic drift promotes and recombination hi
 
 + supp_figures.ipynb : ipython notebook to generate figures S1 and S2.
 
-+ RR_results.csv : data used by main_figures.ipynb.
++ RR_results.csv : data used to generate figures 4 and 5.
 
 + DFE.csv : data used by main_figures.ipynb.
 
 + RNA_q_results.csv : data used by main_figures.ipynb.
 
-+ backcross.csv : data used by main_figures.ipynb.
++ backcross.csv : data used by to generate figure 9.
 
 + RNA_holey_results : data used by supp_figures.ipynb.
