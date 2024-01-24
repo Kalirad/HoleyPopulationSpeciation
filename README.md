@@ -26,12 +26,12 @@ Kalirad A, Burch CL, & Azevedo RBR. _Genetic drift promotes and recombination hi
 
 + supp_figures.ipynb : ipython notebook to generate figures S1 and S2.
 
-+ RR_results.csv : data used to generate figures 4 and 5.
++ /raw_data/RR_results.csv : data used to generate figures 4 and 5.
 
-+ DFE.csv : data used by main_figures.ipynb.
++ /raw_data/DFE.csv : data used by main_figures.ipynb.
 
-+ RNA_q_results.csv : data used by main_figures.ipynb.
++ /raw_data/RNA_q_results.csv : data used by main_figures.ipynb.
 
-+ backcross.csv : data used by to generate figure 9.
++ /raw_data/backcross.csv : data used by to generate figure 9.
 
-+ RNA_holey_results : data used by supp_figures.ipynb.
++ /raw_data/RNA_holey_results.csv : data used by supp_figures.ipynb.
